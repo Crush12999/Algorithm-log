@@ -8,7 +8,7 @@ import java.io.StreamTokenizer;
 /**
  * @author ming
  * @create 2021-11-30
- * @description
+ * @description 要用快读
  */
 public class P1271_选举学生会 {
 
