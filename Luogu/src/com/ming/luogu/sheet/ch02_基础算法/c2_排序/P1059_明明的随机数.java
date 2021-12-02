@@ -25,7 +25,7 @@ public class P1059_明明的随机数 {
 
         for (int i = 0; i < n; i++) {
             if (a[i] != tmp) {
-                ans[cnt++] = a[i];
+                ans[cnt++] = a[i]; // 当前的和上一个不同才复制到新数组
             }
             tmp = a[i];
         }

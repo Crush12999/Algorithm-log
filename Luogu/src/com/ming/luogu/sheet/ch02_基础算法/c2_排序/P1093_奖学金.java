@@ -93,7 +93,7 @@ public class P1093_奖学金 {
                 arr[j] = in.nextInt();
                 count += arr[j];
             }
-            int chinese = Integer.valueOf(arr[0]);
+            int chinese = arr[0];
             stus[i] = new Student(i + 1, chinese, count);
         }
 
