@@ -1,8 +1,10 @@
+### 函数与结构体
+
 #### 1.1 入门
 
 
 
-- [ ] P5735 [距离函数](https://www.luogu.com.cn/problem/P5735)
+- [x] P5735 [距离函数](https://www.luogu.com.cn/problem/P5735)
 
 
 
@@ -12,7 +14,7 @@
 
 
 
-- [ ] P5737 [闰年展示](https://www.luogu.com.cn/problem/P5737)
+- [x] P5737 [闰年展示](https://www.luogu.com.cn/problem/P5737)
 
 
 
@@ -21,7 +23,7 @@
 
 
 
-- [ ] P5739 [计算阶乘](https://www.luogu.com.cn/problem/P5739)
+- [x] P5739 [计算阶乘](https://www.luogu.com.cn/problem/P5739)
 
 
 
