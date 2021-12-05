@@ -51,7 +51,7 @@
 
 
 
-- [ ] P2415 [集合求和](https://www.luogu.com.cn/problem/P2415)
+- [x] P2415 [集合求和](https://www.luogu.com.cn/problem/P2415)
 
 
 
@@ -86,7 +86,7 @@
 
 
 
-- [ ] P5736 [质数筛](https://www.luogu.com.cn/problem/P5736)
+- [x] P5736 [质数筛](https://www.luogu.com.cn/problem/P5736)
 
 
 
@@ -96,7 +96,7 @@
 
 ------
 
-- [ ] 
+- [x] 
   P5738 [歌唱比赛](https://www.luogu.com.cn/problem/P5738)
 
 
