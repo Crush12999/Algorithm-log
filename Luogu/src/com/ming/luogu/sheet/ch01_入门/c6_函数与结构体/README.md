@@ -41,7 +41,7 @@
 
 
 
-- [ ] P1304 [哥德巴赫猜想](https://www.luogu.com.cn/problem/P1304)
+- [x] P1304 [哥德巴赫猜想](https://www.luogu.com.cn/problem/P1304)
 
 
 
