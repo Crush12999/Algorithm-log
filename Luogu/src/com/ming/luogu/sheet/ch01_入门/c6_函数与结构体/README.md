@@ -61,7 +61,7 @@
 
 
 
-- [ ] P5743 [猴子吃桃](https://www.luogu.com.cn/problem/P5743)
+- [x] P5743 [猴子吃桃](https://www.luogu.com.cn/problem/P5743)
 
 
 
