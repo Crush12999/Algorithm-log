@@ -71,7 +71,7 @@
 
 
 
-- [ ] P5744 [培训](https://www.luogu.com.cn/problem/P5744)
+- [x] P5744 [培训](https://www.luogu.com.cn/problem/P5744)
 
 
 
