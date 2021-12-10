@@ -74,7 +74,7 @@
 
 
 
-- [ ] ##### [P1781 宇宙总统](https://www.luogu.com.cn/problem/P1781)
+- [x] ##### [P1781 宇宙总统](https://www.luogu.com.cn/problem/P1781)
 
 
 
