@@ -8,8 +8,6 @@ package com.ataraxia._2021省赛JavaB_第一场;
 public class _D_货物摆放 {
 
     static long n = 2021041820210418L;
-    static long[] num = new long[10000];
-    static int a = 0;
 
     public static void main(String[] args) {
         int ans = 0;
@@ -30,5 +28,4 @@ public class _D_货物摆放 {
         }
         System.out.println(ans);
     }
-
 }
