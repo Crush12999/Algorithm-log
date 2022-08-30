@@ -56,7 +56,9 @@ public class _堆排序 {
             if (son < cnt && heap[son + 1] < heap[son]) {
                 son++;
             }
-            if (t <= heap[son]) break;
+            if (t <= heap[son]) {
+                break;
+            }
             heap[pa] = heap[son];
             pa = son;
             son = pa * 2;
